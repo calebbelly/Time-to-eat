@@ -1,0 +1,5 @@
+Caleb Kelly's user story:
+
+This project should allow the user to have choices through each day regarding their diet.
+The code will calculate the user’s health score based on their choices giving an overall score
+after a 30-day period incentivizing a clean and healthy diet choice.
